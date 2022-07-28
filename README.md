@@ -43,8 +43,6 @@ The app has been hosted on heroku [here](https://kosells.herokuapp.com/). (You m
 <img src="https://user-images.githubusercontent.com/42696800/140549700-13a7e968-44c3-4655-9f4e-c1e33995b2cc.png" alt="home page" width="534" height="300" />
 <img src="https://user-images.githubusercontent.com/42696800/140552487-9598c06c-912b-4204-8a08-ab90328fa9d1.png" alt="login" width="534" height="300" />
 <img src="https://user-images.githubusercontent.com/42696800/140549785-6fc37bec-97c8-4a78-b858-560516db146c.png" alt="product page" width="534" height="300" />
-<img src="https://user-images.githubusercontent.com/42696800/140549881-d9bf8b74-003d-42a6-a0db-bc86eee6c049.png" alt="profile page" width="534" height="300" />
-<img src="https://user-images.githubusercontent.com/42696800/140549950-17462265-3a02-49dc-9323-1fab76bc7b40.png" alt="admin panel" width="534" height="300" />
 <img src="https://user-images.githubusercontent.com/42696800/140549912-5085954f-20bd-4b4e-8f2f-dc3a9d1a23ee.png" alt="login prompt" width="534" height="300" />
 <br/>
 <img alt="mobile mockup" src="https://user-images.githubusercontent.com/42696800/140550251-4e812a06-7809-4784-b1da-81cb625e5257.png" width="200" height="356"/> 
