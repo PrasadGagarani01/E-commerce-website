@@ -45,10 +45,7 @@ The app has been hosted on heroku [here](https://kosells.herokuapp.com/). (You m
 <img src="https://user-images.githubusercontent.com/42696800/140549785-6fc37bec-97c8-4a78-b858-560516db146c.png" alt="product page" width="534" height="300" />
 <img src="https://user-images.githubusercontent.com/42696800/140549912-5085954f-20bd-4b4e-8f2f-dc3a9d1a23ee.png" alt="login prompt" width="534" height="300" />
 <br/>
-<img alt="mobile mockup" src="https://user-images.githubusercontent.com/42696800/140550251-4e812a06-7809-4784-b1da-81cb625e5257.png" width="200" height="356"/> 
-<img alt="mobile mockup 2" src="https://user-images.githubusercontent.com/42696800/140550106-0a0ce922-d2e6-469b-a8c2-4f5dc9c0ea26.png" height="356" width="200" />
-<img alt="mobile mockup 3" src="https://user-images.githubusercontent.com/42696800/140553062-162670f9-570f-4c50-8a32-4cb67330d802.png" height="356" width="200"/>
-<img alt="mobile mockup 4" src="https://user-images.githubusercontent.com/42696800/140553079-a4f4eeab-23d3-4a07-86bc-8decf4e63823.png" height="356" width="200" />
+
 
 </div>
 
